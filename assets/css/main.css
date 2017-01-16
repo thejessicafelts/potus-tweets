@@ -40,7 +40,10 @@ p.date {
   font-weight: 700;
   margin-top: 10px;
 }
-
+p.link {
+  font-size: .9rem;
+  margin-top: 10px;
+}
 button#btn {
   background: #454545;
   border: 1px solid #323232;
